@@ -1,0 +1,9 @@
+streamlit>=1.37
+yfinance
+pandas
+numpy
+plotly
+anthropic
+moomoo-api
+tzdata
+scikit-learn
